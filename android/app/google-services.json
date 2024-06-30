@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "372745410894",
+    "firebase_url": "https://roaia-official-default-rtdb.firebaseio.com",
+    "project_id": "roaia-official",
+    "storage_bucket": "roaia-official.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372745410894:android:559dfcb69ecba5f756661f",
+        "android_client_info": {
+          "package_name": "com.example.roaia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO334ct9eVUtDSy7X4Yz9mw66imN-42oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
